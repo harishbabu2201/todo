@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.btn-style{
+    background-color: rgb(228, 8, 154);
+    width: 100px;
+    color: white;
+    font-size: 20px;
+}
+
+.btn-style:hover{
+    background-color: black;
+    color: white;
+    transition: background-color 0.3s  ease-in;
+}
+
+
+.todo-containers{
+    max-width: 100%;
+}
+
+
+
+.btn-style1{
+    background-color: rgb(228, 8, 154);
+    width: 150px;
+    color: white;
+    font-size: 20px;
+}
+
+.btn-style1:hover{
+    background-color: black;
+    color: white;
+    transition: background-color 0.3s  ease-in;
+}
+
+.header-title{
+    color: rgb(8, 0, 0);
+    font-weight: 800;
+}
+
+.toast{
+    margin: auto;
+}
+
+
+.txt-area{
+    height: 200px;
+}
+
+/* .form-control:focus{
+    outline: none;
+} */
+
+
+.tabs{
+    border: 1px solid black;
+}
+
+.card-stl{
+    border: 1px solid rgb(226, 223, 223);
+    padding: 18px;
+}
+
+
+.tab-text{
+    line-height: 166px;
+}
