@@ -8,6 +8,5 @@ feature:
 extra
  user can search the task
 
-# if you get backdrop issue just refresh
 
 
